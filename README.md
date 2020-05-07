@@ -1,4 +1,6 @@
-![alt text](https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png)
+<div align="center">
+<img src=https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png" >
+</div>
 
 # AceleraDev Data Science Online - CODENATION
 
