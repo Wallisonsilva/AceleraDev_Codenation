@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png" alt="Image" width="800" height="600" />
+    <img src="https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png" alt="Image" width="400" height="200" />
 </p>
 # AceleraDev Data Science Online - CODENATION
 
