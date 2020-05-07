@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png" alt="Image" width="400" height="200" />
+    <img src="https://github.com/Wallisonsilva/AceleraDev_Codenation/blob/master/logo.png" alt="Image" width="300" height="150" />
 </p>
+
 # AceleraDev Data Science Online - CODENATION
 
 ## O que é o AceleraDev?
