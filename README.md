@@ -5,17 +5,33 @@
 # **AceleraDev Data Science Online**
 
 ## O que é o AceleraDev?
+
 O AceleraDev é um programa de capacitação gratuito para profissionais de tecnologia. Desenvolvido pela Codenation e patrocinado por uma empresa apoiadora (que busca contratar pessoas da turma ao final), cada edição dura 10 semanas, foca em uma única tecnologia e trabalha com desafios de programação semanais e projeto prático com auxílio de mentoria, simulando a realidade do mercado.
+
+
+## Cronograma
+
+Semana 01
+Semana 02
+Semana 03
+Semana 04
+Semana 05
+Semana 06
+Semana 07
+Semana 08
+Semana 09
+Semana 10
 
 ## Empresas Apoiadoras
 
-* CI&T [GitHub Pages](https://br.ciandt.com/carreiras/we-are-hiring)
-* Conta Azul
-* GuiaBolso
-* PagueVeloz
-* Rocket.Chat
-* Sanar
-* Nexfar
-* Senior
-* Voyager
-* Itaú
+* [CI&T](https://br.ciandt.com/carreiras/we-are-hiring)
+* [Conta Azul](https://contaazul.com/carreiras/)
+* [GuiaBolso](https://jobs.kenoby.com/guiabolso)
+* [PagueVeloz](https://www.pagueveloz.com.br/)
+* [Rocket.Chat](https://rocket.chat/jobs)
+* [Sanar](https://jobs.kenoby.com/sanar)
+* [Nexfar](https://nexfar.com.br/#/)
+* [Senior](https://www.senior.com.br/carreiras)
+* [Voyager](https://www.voyagerportal.com/company/)
+* [Itaú](https://www.itau.com.br/trabalhe-conosco/)
+
