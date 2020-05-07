@@ -9,7 +9,7 @@ O AceleraDev é um programa de capacitação gratuito para profissionais de tecn
 
 ## Empresas Apoiadoras
 
-* CI&T
+* CI&T [GitHub Pages](https://br.ciandt.com/carreiras/we-are-hiring)
 * Conta Azul
 * GuiaBolso
 * PagueVeloz
