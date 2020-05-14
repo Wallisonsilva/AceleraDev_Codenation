@@ -14,8 +14,8 @@ O AceleraDev é um programa de capacitação gratuito para profissionais de tecn
 * Semana 01 - Introdução a Ciência de Dados
 * Semana 02 - Manipulação de Dados
 * Semana 03 - Análise Exploratória de Dados
-* Semana 04 - Probabilidade e Estatística I
-* Semana 05 - Probabilidade e Estatística II
+* Semana 04 - Probabilidade e Estatística
+* Semana 05 - Funções de Probabilidade
 * Semana 06 - 
 * Semana 07 - 
 * Semana 08 - 
